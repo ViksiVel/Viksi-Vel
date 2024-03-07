@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Bulgaria.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vik-vel" alt="vik-vel" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vik-vel" alt="vik-vel" /></a> </p>
 
 - 🌱 I’m currently learning **C# Web - ASP.NET**
 
